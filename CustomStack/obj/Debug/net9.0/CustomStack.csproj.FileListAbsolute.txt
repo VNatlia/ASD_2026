@@ -1,0 +1,11 @@
+/Users/nataliia/Desktop/Algorithms/Lab1.1/CustomStack/bin/Debug/net9.0/CustomStack.deps.json
+/Users/nataliia/Desktop/Algorithms/Lab1.1/CustomStack/bin/Debug/net9.0/CustomStack.dll
+/Users/nataliia/Desktop/Algorithms/Lab1.1/CustomStack/bin/Debug/net9.0/CustomStack.pdb
+/Users/nataliia/Desktop/Algorithms/Lab1.1/CustomStack/obj/Debug/net9.0/CustomStack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliia/Desktop/Algorithms/Lab1.1/CustomStack/obj/Debug/net9.0/CustomStack.AssemblyInfoInputs.cache
+/Users/nataliia/Desktop/Algorithms/Lab1.1/CustomStack/obj/Debug/net9.0/CustomStack.AssemblyInfo.cs
+/Users/nataliia/Desktop/Algorithms/Lab1.1/CustomStack/obj/Debug/net9.0/CustomStack.csproj.CoreCompileInputs.cache
+/Users/nataliia/Desktop/Algorithms/Lab1.1/CustomStack/obj/Debug/net9.0/CustomStack.dll
+/Users/nataliia/Desktop/Algorithms/Lab1.1/CustomStack/obj/Debug/net9.0/refint/CustomStack.dll
+/Users/nataliia/Desktop/Algorithms/Lab1.1/CustomStack/obj/Debug/net9.0/CustomStack.pdb
+/Users/nataliia/Desktop/Algorithms/Lab1.1/CustomStack/obj/Debug/net9.0/ref/CustomStack.dll

@@ -1,0 +1,11 @@
+/Users/nataliia/Desktop/Algorithms/Lab1.1/CustomList/bin/Debug/net9.0/CustomList.deps.json
+/Users/nataliia/Desktop/Algorithms/Lab1.1/CustomList/bin/Debug/net9.0/CustomList.dll
+/Users/nataliia/Desktop/Algorithms/Lab1.1/CustomList/bin/Debug/net9.0/CustomList.pdb
+/Users/nataliia/Desktop/Algorithms/Lab1.1/CustomList/obj/Debug/net9.0/CustomList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliia/Desktop/Algorithms/Lab1.1/CustomList/obj/Debug/net9.0/CustomList.AssemblyInfoInputs.cache
+/Users/nataliia/Desktop/Algorithms/Lab1.1/CustomList/obj/Debug/net9.0/CustomList.AssemblyInfo.cs
+/Users/nataliia/Desktop/Algorithms/Lab1.1/CustomList/obj/Debug/net9.0/CustomList.csproj.CoreCompileInputs.cache
+/Users/nataliia/Desktop/Algorithms/Lab1.1/CustomList/obj/Debug/net9.0/CustomList.dll
+/Users/nataliia/Desktop/Algorithms/Lab1.1/CustomList/obj/Debug/net9.0/refint/CustomList.dll
+/Users/nataliia/Desktop/Algorithms/Lab1.1/CustomList/obj/Debug/net9.0/CustomList.pdb
+/Users/nataliia/Desktop/Algorithms/Lab1.1/CustomList/obj/Debug/net9.0/ref/CustomList.dll
