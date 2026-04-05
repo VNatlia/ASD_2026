@@ -9,3 +9,4 @@
 /Users/nataliia/Desktop/Algorithms/Lab1.1/CustomList/obj/Debug/net9.0/refint/CustomList.dll
 /Users/nataliia/Desktop/Algorithms/Lab1.1/CustomList/obj/Debug/net9.0/CustomList.pdb
 /Users/nataliia/Desktop/Algorithms/Lab1.1/CustomList/obj/Debug/net9.0/ref/CustomList.dll
+/Users/nataliia/Desktop/Algorithms/Lab1.1/CustomList/obj/Debug/net9.0/CustomList.sourcelink.json

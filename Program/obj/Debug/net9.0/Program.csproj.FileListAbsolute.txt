@@ -18,3 +18,4 @@
 /Users/nataliia/Desktop/Algorithms/Lab1.1/Program/obj/Debug/net9.0/Program.pdb
 /Users/nataliia/Desktop/Algorithms/Lab1.1/Program/obj/Debug/net9.0/Program.genruntimeconfig.cache
 /Users/nataliia/Desktop/Algorithms/Lab1.1/Program/obj/Debug/net9.0/ref/Program.dll
+/Users/nataliia/Desktop/Algorithms/Lab1.1/Program/obj/Debug/net9.0/Program.sourcelink.json
